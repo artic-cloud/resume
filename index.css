@@ -1,0 +1,28 @@
+.image {
+    padding-top: 20px;
+}
+.image-text {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav {
+    text-align: center;
+    padding-top: 50px;
+
+}
+.nav-text {
+
+}
+.footer {
+    text-align: center;
+    padding: 10px;
+
+}
+.footer-text {
+
+}
+.img {
+    width: 8%;
+}
